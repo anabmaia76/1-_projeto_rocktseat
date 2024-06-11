@@ -1,7 +1,5 @@
 # 1º projeto rocktseat
 
-## Projeto Rocktseat
-
 ### Objetivo: :triangular_flag_on_post:
 Este é o meu primeiro projeto do curso disponínel na Rocktseat;
 A página foi feita pela linguagem HTML e estilizada usando css.
