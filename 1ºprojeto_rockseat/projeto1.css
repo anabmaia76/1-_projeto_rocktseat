@@ -1,0 +1,47 @@
+body{
+    justify-content: center;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+.container {
+    margin: 0 auto;
+    width: 50%;
+}
+
+span, a {
+    color: orange;
+}
+
+a {
+    padding-left: 25px;
+}
+
+.espacamento {
+    padding-top: 3px;
+}
+
+.espacamento2, h1 {
+    padding-top: 5px;
+}
+
+.espacamento3 {
+    padding-top: 16px; /* espacamento interno, distancia do conteudo ate as bordas da caixa */ 
+    border-top: 1px lightgray solid;
+    width: 95%; /* largura*/ 
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+h1 {
+
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+}
+
+.imagem2 {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
